@@ -13,9 +13,9 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <junit.version>5.10.2</junit.version>
 
-    <sonar.projectKey>maiarhadi_cook45</sonar.projectKey>
-    <sonar.organization>maiarhadi</sonar.organization>
-    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.organization>cook4532</sonar.organization>
+  <sonar.projectKey>cook4532_cook45</sonar.projectKey>
+
 </properties>
 
 
